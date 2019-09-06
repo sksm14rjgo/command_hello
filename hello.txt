@@ -5,3 +5,6 @@ print("Hello world");
 print("Tell Your World");
 print("Tell his World");
 print("Tell her World");
+
+//git pull을 활용해보자.
+print("Tell my world");
